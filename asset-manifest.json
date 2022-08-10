@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_loginFirebase/static/css/main.41128652.css",
+    "main.js": "/React_loginFirebase/static/js/main.9efad19c.js",
+    "index.html": "/React_loginFirebase/index.html",
+    "main.41128652.css.map": "/React_loginFirebase/static/css/main.41128652.css.map",
+    "main.9efad19c.js.map": "/React_loginFirebase/static/js/main.9efad19c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41128652.css",
+    "static/js/main.9efad19c.js"
+  ]
+}
