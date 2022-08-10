@@ -1,6 +1,7 @@
 {
   "name": "firebase-auth",
   "version": "0.1.0",
+  "homepage": "https://Himanshu66a.github.io/React_loginFirebase",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
